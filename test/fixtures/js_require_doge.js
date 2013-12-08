@@ -1,0 +1,1 @@
+module.exports = require('./doge_runner.djs')('wow');

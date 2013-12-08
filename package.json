@@ -1,0 +1,31 @@
+{
+  "name": "dogeify",
+  "version": "0.0.1",
+  "description": "Dogescript transform for Browserify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/remixz/dogeify.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/tape test/*.js"
+  },
+  "keywords": [
+    "dogescript",
+    "transform",
+    "browserify"
+  ],
+  "author": "Zach Bruggeman <talkto@zachbruggeman.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remixz/dogeify/issues"
+  },
+  "dependencies": {
+    "dogescript": "2.x",
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "browserify": "~3.0.0",
+    "tape": "~2.3.0"
+  }
+}
