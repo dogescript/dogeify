@@ -18,3 +18,7 @@ wow
 npm install dogeify
 browserify -t dogeify wow.djs > bundle.js
 ```
+
+## History
+
+* 2.4.0 - support dogescript 2.4.0
