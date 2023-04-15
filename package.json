@@ -25,7 +25,7 @@
     "through": "~2.3.4"
   },
   "devDependencies": {
-    "browserify": "~3.0.0",
+    "browserify": "~3.46.1",
     "tape": "~2.3.0"
   }
 }
